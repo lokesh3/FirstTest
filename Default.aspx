@@ -9,9 +9,9 @@
 <body>
     <form id="form1" runat="server">
 <<<<<<< HEAD
-        <asp:Button ID="Button1" runat="server" Text="Push Me" />
+        <asp:Button ID="Button1" runat="server" Text="Yes Me" />
 =======
-        <asp:Button ID="Button" runat="server" Text="Test Me" />
+        <asp:Button ID="Button" runat="server" Text="No Me" />
 >>>>>>> origin/master
     <div>
     
