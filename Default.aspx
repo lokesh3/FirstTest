@@ -8,7 +8,11 @@
 </head>
 <body>
     <form id="form1" runat="server">
+<<<<<<< HEAD
         <asp:Button ID="Button1" runat="server" Text="Push Me" />
+=======
+        <asp:Button ID="Button" runat="server" Text="Test Me" />
+>>>>>>> origin/master
     <div>
     
     </div>
